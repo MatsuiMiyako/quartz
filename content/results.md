@@ -24,4 +24,4 @@
 - Plain water being non-zero (29/255) supports the chemistry principle that tap water contains trace dissolved minerals like calcium and magnesium from municipal water treatment
 ---
 
-[[Analysis|Next: Analysis →]]
+[[analysis|Next: Analysis →]]

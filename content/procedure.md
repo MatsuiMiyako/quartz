@@ -44,4 +44,4 @@
 
 ---
 
-[[My Experiment|Next: My Experiment →]]
+[[my-experiment|Next: My Experiment →]]

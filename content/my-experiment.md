@@ -28,4 +28,4 @@
   <source src="media/videos/powerade_sol.mp4" type="video/mp4">
 </video>
 
-[[Results|Next: Results →]]
+[[results|Next: Results →]]

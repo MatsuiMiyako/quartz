@@ -12,14 +12,15 @@ In this project, I built a conductivity tester using SNAP circuits and tested fi
 
 ---
 ## Navigate This Project
-| Section | What's Inside |
-|---|---|
-| [[inquiry-question\|Inquiry Question]] | My research question and chemistry connections |
+| Section                                      | What's Inside                                      |
+| -------------------------------------------- | -------------------------------------------------- |
+| [[inquiry-question\|Inquiry Question]]       | My research question and chemistry connections     |
 | [[background-research\|Background Research]] | The chemistry behind electrolytes and conductivity |
-| [[materials\|Materials]] | Everything used in the experiment |
-| [[procedure\|Procedure]] | Step-by-step method |
-| [[results\|Results]] | Data table and LED brightness photos |
-| [[analysis\|Analysis]] | What the results mean |
-| [[conclusion\|Conclusion]] | Final answer and real-world connections |
+| [[materials\|Materials]]                     | Everything used in the experiment                  |
+| [[procedure\|Procedure]]                     | Step-by-step method                                |
+| [[results\|Results]]                         | Data table and LED brightness photos               |
+| [[analysis\|Analysis]]                       | What the results mean                              |
+| [[conclusion\|Conclusion]]                   | Final answer and real-world connections            |
+
 ---
 *Chemistry 30S · June 2026*

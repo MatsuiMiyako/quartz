@@ -55,4 +55,4 @@ When the two probes are dipped into a conductive liquid, the circuit is complete
 
 ---
 
-[[Procedure|Next: Procedure →]]
+[[procedure|Next: Procedure →]]

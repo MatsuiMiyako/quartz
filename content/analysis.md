@@ -25,4 +25,4 @@ The homemade solution scored 101/255, placing it between Gatorade (99/255) and P
 
 ---
 
-[[Conclusion|Next: Conclusion →]]
+[[conclusion|Next: Conclusion →]]

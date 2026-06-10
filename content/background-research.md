@@ -67,4 +67,4 @@ Based on the nutrition labels of each drink, I predicted this order from highest
 
 ---
 
-[[Materials|Next: Materials →]]
+[[materials|Next: Materials →]]
